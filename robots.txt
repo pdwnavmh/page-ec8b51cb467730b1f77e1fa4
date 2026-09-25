@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.jlkan.cn/sitemap.xml
